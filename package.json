@@ -1,0 +1,21 @@
+{
+  "name": "cligame",
+  "version": "1.0.0",
+  "description": "A cli game demo",
+  "keywords": [
+    "CLI"
+  ],
+  "license": "MIT",
+  "author": "sirr_nathan <nathanieladama8420@email.com> (https://nathaniel-e-adama.vercel.app/)",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": "./index.js",
+  "dependencies": {
+    "@clack/prompts": "^0.10.0",
+    "picocolors": "^1.1.1"
+  }
+}
