@@ -1,7 +1,7 @@
 {
-  "name": "cligame",
+  "name": "AnimeVerse_CLI",
   "version": "1.0.0",
-  "description": "A cli game demo",
+  "description": "A simple cli anime demo game",
   "keywords": [
     "CLI"
   ],
