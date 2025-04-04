@@ -111,7 +111,8 @@ async function main() {
 
 
 
-    p.outro(color.bgCyan(color.black(`Thank you for playing the Anime Verse 🚀`)))
+    p.outro(color.bgCyan(color.black(`Thank you for playing the Anime Verse 🚀. Love ❤️ s-kvng`)))
+    p.outro(color.bgMagenta(color.black(`Feel free to fork tho😉.`)))
 }
 
 
